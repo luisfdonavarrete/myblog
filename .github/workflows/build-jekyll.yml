@@ -1,6 +1,6 @@
 name: Build and deploy Jekyll site to GitHub Pages
 
-run-name: ${{ github.actor }} is learning GitHub Actions 
+run-name: Build and deploy Jekyll site to GitHub Pages
 
 on:
   push:
